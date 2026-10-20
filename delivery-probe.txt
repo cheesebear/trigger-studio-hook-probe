@@ -1,0 +1,3 @@
+Trigger Studio public webhook delivery probe.
+Probe date: 2026-10-20.
+No application code or credentials.
