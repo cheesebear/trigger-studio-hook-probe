@@ -1,3 +1,7 @@
 Trigger Studio public webhook delivery probe.
 Probe date: 2026-10-20.
 No application code or credentials.
+
+Egress repair probe: composio-egress-probe-20261021-1555
+Purpose: verify the existing signed Composio subscription reaches the repaired local event ingress.
+Synthetic diagnostic text only; no application code or credentials.
